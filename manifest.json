@@ -1,0 +1,27 @@
+{
+  "short_name": "PWA",
+  "name": "PWA Template",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "image/icon/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "image/icon/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "orientation": "portrait-primary",
+  "display": "standalone",
+  "theme_color": "#e9ecef",
+  "background_color": "#e9ecef"
+}

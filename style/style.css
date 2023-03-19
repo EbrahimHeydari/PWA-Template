@@ -1,0 +1,17 @@
+@font-face {
+  font-family: vazir;
+  src: url('../font/vazir.ttf') format('truetype'),
+    url('../font/vazir.woff') format('woff');
+}
+
+body {
+  font-family: vazir, cursive;
+  color: gold;
+  background: url(../image/cover.png) no-repeat;
+}
+
+a {
+  color: #068ad6;
+  text-decoration: none;
+  margin: 0 10px;
+}
